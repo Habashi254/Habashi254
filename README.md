@@ -1,12 +1,16 @@
-<div align="center">
-  <img src="profile.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" />
-
-  <h1>Hi there! 👋</h1>
-
-  <p>
-    I am a dedicated Computer Science enthusiast driven by the potential of technology to create meaningful change. With a strong focus on analytical thinking and software development, my goal is to leverage technical skills to engineer innovative solutions for the complex problems facing our world today.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="250" align="center" valign="middle">
+      <img src="profile.png" width="200" alt="Profile Picture" />
+    </td>
+    <td valign="middle">
+      <h1>Hi there! 👋</h1>
+      <p>
+        I am a dedicated Computer Science enthusiast driven by the potential of technology to create meaningful change. With a strong focus on analytical thinking and software development, my goal is to leverage technical skills to engineer innovative solutions for the complex problems facing our world today.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr />
 
