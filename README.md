@@ -11,6 +11,15 @@
 <hr />
 
 <div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Habashi254&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habashi254&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
+
+<div align="center">
   <h3>🛠️ Languages and Tools</h3>
 
   <p>
